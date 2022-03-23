@@ -1,3 +1,3 @@
 # Boilerplate codebase for full-stack applications
 
-## Fork and use it for future projects
+## Fork and clone for future projects
